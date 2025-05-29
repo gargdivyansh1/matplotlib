@@ -1,0 +1,44 @@
+Types of grphs which could be made using matplotlib: line graph
+                                                     pie chart
+                                                     histogram 
+                                                     bar chart
+                                                     scatter plot 
+                                                     custom graph
+
+                                        
+Terms you must know: 
+1: Data Point = single pair of value for the data representation
+2: x-line and y-line -- and you must label them always
+3: Figure = Entire canvas called as figure which is the collection of many graphs
+4: Axes = Graph Box (actual area where the graph is plotted )
+5: Plot = actual line bar shape which is drawn in the graph 
+6: Marker = a symbol is used for marking the data Point
+7: Line = the connection made between data points by the help of line
+8: line Style = the way how the line is drawn in the graph 
+9: color = color of every thing 
+10: legend = the small box which tell that which thing is denoting what in the graph 
+11: label = for labelling the x-axis and y-axis 
+12: title = for heading of the graph 
+13: grid = the lines made in the background 
+14: function = the functions are used for performing the certain task and used paranthesis for calling them
+15: method = ............
+16: parameters = these are the information which are provided for the functions and methods 
+17: keyword agruments = like this is used for customisation or providing info with the detail like color = green 
+18: object-oriented API = ...........
+19: DPI = dots per inch (higher DPI = clear image)
+20: backend = used for drawaing the plots 
+
+
+            pyplot         |         Object Oriented API
+---------------------------|----------------------------------
+1. Easy small plotting and |1. Large plotting and tough .
+basically single graph     |
+plotting.                  |
+                           |
+2. Golobal state for the   |2. Not uses the Global state
+graphs .. means changes    |   changes are meant for the 
+are reflected in all the   |   particualar graphs.
+graphs even if they are    |
+not ment for them.         |
+                           |
+3. Less flexible.          |3. More flexible.
